@@ -2,16 +2,20 @@ body {
     font-family: "Ubuntu";
     font-size: "25px";
     text-align: center;
-    background-color: #1c9a54;
+    background-color: #f0f0f2;
     background-repeat: no-repeat;
     background-size: cover
 }
 
 .container {
-    margin-top: 10%;
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
     font-family: "Ubuntu";
     font-size: "50px";
     color: #FFF;
+    background-color: #ffffff;
+    border-radius: 7px;
 }
 
 .container p {
@@ -50,7 +54,7 @@ body {
 
 #btn:hover {
     background: #0066ff;
-    color: #fff;
+    color: #32a852;
     background-repeat: no-repeat;
 }
 
