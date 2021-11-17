@@ -1,8 +1,8 @@
 {
-    "name": "Womginx",
-    "description": "Fastest proxy using only nginx as the backend server",
-    "repository": "https://github.com/binary-person/womginx",
-    "logo": "https://raw.githubusercontent.com/binary-person/womginx/master/public/logo.png",
+    "name": "Proxy",
+    "description": "my proxy",
+    "repository": "https://github.com/dfmeow/proxy",
+    "logo": "https://raw.githubusercontent.com/dfmeow/proxy/master/public/logo.png",
     "keywords": [
         "nginx",
         "docker"
